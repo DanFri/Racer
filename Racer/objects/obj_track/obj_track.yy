@@ -1,12 +1,8 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_player",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,},
-  ],
+  "name": "obj_track",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -30,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_car_endurance_red",
-    "path": "sprites/spr_car_endurance_red/spr_car_endurance_red.yy",
+    "name": "spr_Chevrons_Straight_Diagonal",
+    "path": "sprites/spr_Chevrons_Straight_Diagonal/spr_Chevrons_Straight_Diagonal.yy",
   },
   "spriteMaskId": null,
   "visible": true,

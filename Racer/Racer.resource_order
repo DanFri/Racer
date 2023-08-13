@@ -261,6 +261,7 @@
     {"name":"WAV_Racing_Track2_Lose","order":1,"path":"sounds/WAV_Racing_Track2_Lose/WAV_Racing_Track2_Lose.yy",},
     {"name":"SFX_policeSiren_american_lp_01","order":4,"path":"sounds/SFX_policeSiren_american_lp_01/SFX_policeSiren_american_lp_01.yy",},
     {"name":"spr_car_endurance_shadow","order":3,"path":"sprites/spr_car_endurance_shadow/spr_car_endurance_shadow.yy",},
+    {"name":"obj_track","order":2,"path":"objects/obj_track/obj_track.yy",},
     {"name":"spr_stands_large_08","order":8,"path":"sprites/spr_stands_large_08/spr_stands_large_08.yy",},
     {"name":"SFX_policeSiren_strobe_lp_01","order":9,"path":"sounds/SFX_policeSiren_strobe_lp_01/SFX_policeSiren_strobe_lp_01.yy",},
     {"name":"spr_house2_orange","order":1,"path":"sprites/spr_house2_orange/spr_house2_orange.yy",},
