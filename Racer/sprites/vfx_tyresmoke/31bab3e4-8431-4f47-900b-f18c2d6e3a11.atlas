@@ -1,0 +1,15 @@
+vfx_tyresmoke.png
+size:111,49
+filter:Linear,Linear
+pma:true
+images/smoke1
+bounds:2,2,45,45
+offsets:1,1,47,48
+images/smoke2
+bounds:49,12,35,32
+offsets:1,1,37,34
+rotate:90
+images/smoke3
+bounds:83,17,30,26
+offsets:1,2,32,29
+rotate:90

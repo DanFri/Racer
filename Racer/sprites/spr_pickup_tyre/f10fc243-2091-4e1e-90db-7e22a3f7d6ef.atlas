@@ -1,0 +1,10 @@
+pickup_tyre.png
+size:501,322
+filter:Linear,Linear
+pma:true
+glow
+bounds:2,2,318,318
+offsets:8,7,333,331
+tyre
+bounds:322,143,177,177
+offsets:1,1,179,179

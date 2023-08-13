@@ -1,0 +1,14 @@
+pickup_boost.png
+size:80,252
+filter:Linear,Linear
+pma:true
+arrow_blue
+bounds:2,2,58,119
+offsets:1,1,60,121
+arrow_white
+bounds:2,123,65,127
+offsets:2,1,68,129
+line
+bounds:69,95,155,9
+offsets:1,1,157,11
+rotate:90

@@ -1,0 +1,10 @@
+pickup_fuel.png
+size:469,322
+filter:Linear,Linear
+pma:true
+fuel
+bounds:322,121,145,199
+offsets:1,1,147,202
+glow
+bounds:2,2,318,318
+offsets:8,7,333,331
