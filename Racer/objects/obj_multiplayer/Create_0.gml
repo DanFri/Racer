@@ -10,11 +10,11 @@ rollback_define_input(
 		space: vk_space
 });
 
-rollback_define_player(obj_player, "Instances");
+rollback_define_player(obj_player, "cars");
 
 if (!rollback_join_game())
 {
-        rollback_create_game(2, false);
+        rollback_create_game(2, true);
 }
 
 

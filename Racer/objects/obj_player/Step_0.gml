@@ -16,10 +16,10 @@ if (_input.up or _input.down) {  updown = true; }
 
 
 // speed boost
-if (_input.space) {  
-	speed_max = 20; 
-	alarm[0] = room_speed * 5;
-}
+//if (_input.space) {  
+	//speed_max = 20; 
+	//alarm[0] = room_speed * 5;
+//}
 
 
 if (_input.left and updown)
